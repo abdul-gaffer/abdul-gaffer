@@ -1,5 +1,5 @@
 https://avatars.githubusercontent.com/u/185454811?s=400&u=05604f80e56cf5dd9078185ad7f53e8e6fa2c564&v=4
-![I am abdul-gaffer](https://github.com/abdul-gaffer/abdul-gaffer/blob/main/code.png)
+
 
 <h1 align="center">Hi 👋, I'm Abdul Gaffer Ahmed(Abdul)</h1>
 <h3 align="center">Programmer | Web Designer </h3>
@@ -92,7 +92,7 @@ Skills:  Java / PYTHON/ HTML / CSS
   <br/>
 </a>
 
-![Abdul Gaffer](https://github-readme-activity-graph.vercel.app/graph?username=abdul-gaffer&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Abdul Gaffer](https://github-readme-activity-graph.vercel.app/graph?username=abdul-gaffer&custom_title=abdul's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 

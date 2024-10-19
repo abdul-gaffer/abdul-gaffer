@@ -1,21 +1,19 @@
-
+https://avatars.githubusercontent.com/u/185454811?s=400&u=05604f80e56cf5dd9078185ad7f53e8e6fa2c564&v=4
 ![I am abdul-gaffer](https://github.com/abdul-gaffer/abdul-gaffer/blob/main/code.png)
 
-<h1 align="center">Hi 👋, I'm HARUN UR ROSHID(Tutul)</h1>
-<h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
-<h4 align="center">Co-founder & Chief Operating Officer at Hablu Programmer</h4>
+<h1 align="center">Hi 👋, I'm Abdul Gaffer Ahmed(Abdul)</h1>
+<h3 align="center">Programmer | Web Designer </h3>
+
 
 <div align="center">
 
 ![Profile views](https://komarev.com/ghpvc/?username=abdul-gaffer&color=red)
 
-Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
+Skills:  Java / PYTHON/ HTML / CSS
 
 </div>
 
 - 🔭 I’m currently working on [Hablu Programmer](https://www.hablu-programmer.com/)
-
-- 🌱 I’m currently learning Golang, Java, C++
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdul-gaffer](https://github.com/abdul-gaffer)
 
@@ -23,7 +21,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
 
 - 💬 Ask me about **HTML5, CSS3, JS, Bootstrap**
 
-- 📫 How to reach me **programmerharun@gmail.com**
+- 📫 How to reach me **joy1123556@gmail.com**
 
 - 📄 All About Me:[https://lnk.bio/abdul-gaffer](https://lnk.bio/abdul-gaffer)
 
@@ -94,7 +92,7 @@ Skills: C / C++ / Java / PYTHON/ BOOTSTRAP / REACT / JS / HTML / CSS
   <br/>
 </a>
 
-![Harun's Graph](https://github-readme-activity-graph.vercel.app/graph?username=abdul-gaffer&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Abdul Gaffer](https://github-readme-activity-graph.vercel.app/graph?username=abdul-gaffer&custom_title=Harun's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
